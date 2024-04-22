@@ -2,7 +2,7 @@
 
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.12-3776AB?logo=python)
 
-Download the verdicts from Italia Administrative Justice website [https://www.giustizia-amministrativa.it](https://www.giustizia-amministrativa.it).
+Download the verdicts from Italian Administrative Justice website (TAR and CDS)[https://www.giustizia-amministrativa.it](https://www.giustizia-amministrativa.it).
 
 ### > Directories
 
