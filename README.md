@@ -2,7 +2,7 @@
 
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.12-3776AB?logo=python)
 
-[https://www.giustizia-amministrativa.it](https://www.giustizia-amministrativa.it)
+Download the verdicts from Italia Administrative Justice website [https://www.giustizia-amministrativa.it](https://www.giustizia-amministrativa.it).
 
 ### > Directories
 
