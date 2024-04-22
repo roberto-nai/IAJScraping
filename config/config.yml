@@ -1,0 +1,11 @@
+# config.yml
+
+VERDICTS_DIR: verdicts
+VERDICTS_FILE: Y_verdicts.csv  # Y verdicts index file (2023_sentences.csv)
+PAGING: 60                      # number of results per page
+URL_SEARCH: https://www.giustizia-amministrativa.it # IAJ website
+VERDICTS_STATS: verdicts_stats
+VERDICTS_STATS_FILE: verdicts_stats.json
+RECURSION_LIMIT: 30000
+COURTS_DIR: court
+COURTS_FILE: court.csv
